@@ -13,6 +13,6 @@ This Script first check the file lengths and list out all error files and folder
             * Suppose your Upload Directory is **$/Design/Drawings/2018/01**
             * Then you have to Enter **Drawings/2018/01** in the Command Line
 4. Then the Script will create 2 Reports and 1 Log File
-    * Long Path Folders Report Location: **C:\\Users**\\*<UserName>***\\LongPathReport\\**
-    * Long Path Files Report Location: **C:\\Users**\\*<UserName>***\\LongPathReport\\**
-    * Log File Location: **C:\\Users**\\*<UserName>***\\AppData\\Local\\Temp\\**
+    * Long Path Folders Report Location: **C:\\Users**\\*UserName***\\LongPathReport\\**
+    * Long Path Files Report Location: **C:\\Users**\\*UserName***\\LongPathReport\\**
+    * Log File Location: **C:\\Users**\\*UserName***\\AppData\\Local\\Temp\\**
